@@ -1,0 +1,159 @@
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	15.10	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	15.31	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	24.40	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	61.02	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	78.18	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	111.77	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	152.05	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	147.54	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	146.67	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	126.59	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	114.07	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	180.28	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	250.04	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	266.09	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	260.34	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	342.99	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	422.56	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	422.87	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	488.37	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	504.24	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	601.84	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	704.86	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	1099.95	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	1358.62	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	1476.40	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	1669.91	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	1868.29	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	1457.04	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	1365.78	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	1247.06	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	1084.95	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	1043.79	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	1088.33	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	1125.17	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	1373.45	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	1395.58	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	1117.81	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	910.73	
+
+Captured
+Wavelength [nm]	Wavelength Center [nm]	Whole picture	
+506.00 - 594.00	550.00	743.50	
+
+
+

@@ -1,0 +1,5 @@
+1080    #wlstart
+700     #wlend
+5. 7. 10.
+examples/spettrale/potenza1/data.txt examples/spettrale/potenza2/data.txt examples/spettrale/potenza3/data.txt
+False    #nddflag set False is spectral detector is used
