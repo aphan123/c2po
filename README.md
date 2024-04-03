@@ -15,3 +15,10 @@ python3 c2po.py
 outputs (raw spectra) in the main folder as .png and file data:
 spectrum_i.dat
 all.dat
+
+
+NB: files from the microscope are encoded in utf-16le
+to convert to utf-8 from terminal 
+
+iconv -f utf-16le -t utf-8 nome_file_input.txt -o nome_file_output.txt
+
