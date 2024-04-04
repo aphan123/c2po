@@ -59,12 +59,12 @@ plt.close()
 datalist = []
 for i,pot in enumerate(pots):
     filename = filenames[i]
-    print(filename)
+    print(f'Data from file:\t{filename}')
     #print(filename)
-    with open(filename, 'r') as fff:
+    with open(filename, 'r', encoding='utf-16le') as fff:
         flag = 0
         j = 0
-        print(filename)
+        #print(filename)
         for line in fff:
             #print(line[1])
 
@@ -81,10 +81,7 @@ for i,pot in enumerate(pots):
             else:
                 flag = 0
 
-#print(datalist)
-#plt.plot(datalist)
-#plt.show()
-#print(len(datalist))
+
 datalist = np.transpose(np.reshape(datalist,(len(pots),len(wl))))
 
 # saving spectra in one file
