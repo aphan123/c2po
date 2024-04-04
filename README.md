@@ -7,6 +7,7 @@ extracts two-photon absorption spectra
 - matplotlib
 
 **How to use**
+
 Modify ``parameters.inp`` file as follows:
 
 1) initial wavelength
