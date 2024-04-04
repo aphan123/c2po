@@ -106,9 +106,9 @@ plt.close()
 # plotting corrected spectra
 colors = ['k','r','b']
 for i, pot in enumerate(pots):
-    plt.plot(wl,datalist[:,i]/(potenze[:,1]*pot/100)**2*corr[::-1,1],label=f'p={pots[i]}',c=colors[i])
+    plt.plot(wl,datalist[:,i]/(potenze[:,1]*pot/100)**2*corr[:,1],label=f'p={pots[i]}',c=colors[i])
     outfile = f'spectrum_corr_{i+1}.out'
-    np.savetxt(outfile, np.column_stack((wl, datalist[:,i]/(potenze[:,1]*pot/100)**2*corr[::-1,1])))
+    np.savetxt(outfile, np.column_stack((wl, datalist[:,i]/(potenze[:,1]*pot/100)**2*corr[:,1])))
 
 
 plt.xlabel(f'Wavelength (nm)')
