@@ -6,7 +6,7 @@ extracts two-photon absorption spectra
 - numpy
 - matplotlib
 
-
+**How to use**
 Modify ``parameters.inp`` file as follows:
 
 1) initial wavelength
@@ -18,7 +18,8 @@ Modify ``parameters.inp`` file as follows:
 Run script:
 ``python3 c2po.py``
 
-outputs:
+**outputs**
 - ``spectrum_i.dat``        raw spectrum at power ``i``
-- ``spectrum_corr_i.dat``   corrected spectrum at power ``i``      
+- ``spectrum_corr_i.dat``   corrected spectrum at power ``i``
+- plots for raw and corrected spectra 
 
