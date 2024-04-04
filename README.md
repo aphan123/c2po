@@ -18,7 +18,7 @@ Modify ``parameters.inp`` file as follows:
 Run script:
 ``python3 c2po.py``
 
-outputs (raw spectra) in the main folder as .png and file data:
-``spectrum_i.dat``
-``all.dat``
+outputs:
+- ``spectrum_i.dat``        raw spectrum at power ``i``
+- ``spectrum_corr_i.dat``   corrected spectrum at power ``i``      
 
